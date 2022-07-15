@@ -6,36 +6,36 @@
   "keywords": ["telegram", "youtube", "uploader"],
   "env": {
       "BOT_TOKEN": {
-      "description": "Your Bot token. Get from https://t.me/botfather",
+      "description": "5500226455:AAG7gCYCgW1BeXydlazDpDxlhtRYoT_-FbU",
       "value": ""
     },
     "SESSION_NAME": {
-      "description": "Your Bot's username.",
+      "description": "YoutubeUploaderexebot",
       "value": "youtubeitbot",
       "required":false
     },
     "API_ID": {
-      "description": "Your API_ID.  Refer project docs.",
+      "description": "11563652",
       "value": ""
     },
     "API_HASH": {
-      "description": "Your API_ID. Refer project docs.",
+      "description": "e1f84181fa4d8f22a818d296b1795825",
       "value": ""
     },
     "CLIENT_ID": {
-      "description": "Your Google CLIENT_ID. Refer project docs.",
+      "description": "207465165157-kuq1vol9klda2nold7a21r29d16d2la9.apps.googleusercontent.com",
       "value": ""
     },
     "CLIENT_SECRET": {
-      "description": "Your Google CLIENT_SECRET. Refer project docs.",
+      "description": "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",
       "value": ""
     },
     "BOT_OWNER": {
-      "description": "Telegram id of the bot owner.",
+      "description": "1654788281",
       "value": ""
     },
     "AUTH_USERS": {
-      "description": "Telegram id of authorised users, separated by comma",
+      "description": "1740810850",
       "value": "",
       "required":false
     },
@@ -60,12 +60,12 @@
       "required":false
     },
     "UPLOAD_MODE": {
-      "description": "The video's privacy status. Valid values for this property are: private, public, unlisted",
+      "description": "private",
       "value": "private",
       "required":false
     },
     "DEBUG": {
-      "description": "Pass any value to set logging to debug level.",
+      "description": "3",
       "value": "",
       "required":false
     }
